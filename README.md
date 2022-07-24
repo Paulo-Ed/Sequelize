@@ -1,2 +1,2 @@
 # Sequelize
-Conceitos e implementação do Orm para aplicações web em ambiente nodeJs. 
+Conceitos e como implementar esse Orm para aplicações web em ambiente nodeJs. 
